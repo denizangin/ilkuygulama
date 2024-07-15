@@ -7,8 +7,13 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+<<<<<<< Updated upstream
         Gİt& Github Öğrenyorum w/yavuz
 
+=======
+        Gİt& Github Öğrenyorum w/deniz
+    
+>>>>>>> Stashed changes
         </p>
         <a
           className="App-link"
